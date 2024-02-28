@@ -1,0 +1,20 @@
+{
+  "name": "zen-round-number",
+  "version": "1.0.0",
+  "description": "Round float number.",
+  "main": "src/index.js",
+  "keywords": ["zen-round-number"],
+  "author": "zenzenqazzaq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenzenqazzaq/zen-round-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zenzenqazzaq/zen-round-number/issues"
+  },
+  "homepage": "https://github.com/zenzenqazzaq/zen-round-number#readme",
+  "dependencies": {
+    "round-date": "1.1.2"
+  }
+}
